@@ -1,7 +1,7 @@
 ## 👋 Hola, I'm Antonio Jesús Pérez
 
 🎯 **Full Stack Engineer · AI-Assisted Development · Robotics & Mechatronics Engineer**  
-🤖 Building agentic AI workflows and developer platforms – from spec-driven development to production BFFs  
+🤖 Building agentic AI workflows and developer platforms – from spec-driven development to production
 ⚙️ TypeScript • NestJS • React • AI Agents & MCP • Python • ROS • IoT • CI/CD
 
 ---
