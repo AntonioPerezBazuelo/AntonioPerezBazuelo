@@ -2,7 +2,7 @@
 
 🎯 **Full Stack Engineer · AI-Assisted Development · Robotics & Mechatronics Engineer**  
 🤖 Building agentic AI workflows and developer platforms – from spec-driven development to production
-⚙️ TypeScript • NestJS • React • AI Agents & MCP • Python • ROS • IoT • CI/CD
+⚙️ TypeScript • NestJS • React • AI • Python • ROS • IoT • CI/CD
 
 ---
 
@@ -17,17 +17,14 @@ I'm part of an internal **AI Squad**, helping design the tools, agents and pract
 ### 💡 What I Do
 
 - 🤖 **AI-Assisted & Agentic Development**  
-  Co-built an internal **spec-driven development (SDD) framework and CLI** with developer and architect workflows, now adopted by multiple teams. Contributed to its next-generation CLI and agent harness, designed specialised agents (e.g. a BFF Expert agent) and evaluated tools like Spec Kit, OpenSpec, BMAD and Kiro.
+  Co-built an internal **spec-driven development (SDD) framework and CLI** with developer and architect workflows, now adopted by multiple teams. Contributed to its next-generation CLI and agent harness, designed specialised agents and evaluated tools like Spec Kit, OpenSpec, BMAD and Kiro.
 
 - 🧩 **Agentic Marketplace**  
   Leading the definition of a company-wide catalogue of ready-to-use **AI skills, agents and assets**, so teams can discover and reuse what others build.
 
 - 🌐 **Frontend & BFF Engineering**  
   Build end-to-end features with **React**, **TypeScript** and **NestJS BFFs** – mapping UI designs to backend APIs, owning observability (Datadog) and shipping with feature flags (Unleash).  
-  Delivered one of the company's first **AI-workflow-built products** from zero to production-ready in under a quarter.
-
-- 🛠️ **Developer Experience & Platform Tooling**  
-  Living documentation synced from source repos, documentation hubs (Docusaurus / Starlight), a custom **MCP server for Jira & Confluence** (OAuth 2.0 3LO), release automation, CODEOWNERS strategies and AI skills for repository scaffolding.
+  Lead one of the company's first **AI-workflow-built products** from zero to production-ready in under a quarter.
 
 - 🔌 **IoT & Robotics**  
   Device onboarding with TCP, UDP, CoAP and custom protocol adapters; **ROS**-based robotics software and sensor data processing in Python.
@@ -40,7 +37,7 @@ I'm part of an internal **AI Squad**, helping design the tools, agents and pract
 `TypeScript` | `JavaScript` | `Python` | `Java` | `NestJS` | `React` | `Spring Boot` | `GraphQL` | `Module Federation`
 
 **AI & Agents**  
-`AI Agents` | `MCP (Model Context Protocol)` | `Spec-Driven Development` | `GitHub Copilot SDK` | `Prompt & Agent Design` | `Nunjucks templating`
+`AI Agents` | `MCP (Model Context Protocol)` | `Spec-Driven Development` | `GitHub Copilot SDK` | `Prompt & Agent Design` 
 
 **Infrastructure & Tooling**  
 `GitHub Actions` | `Docker` | `AWS` | `Terraform` | `NGINX` | `Unleash` | `Datadog` | `SonarQube`
@@ -63,9 +60,6 @@ I'm part of an internal **AI Squad**, helping design the tools, agents and pract
 
 - 🚀 **AI-Built Internal Product** *(internal)*  
   Part of the team behind one of the company's first products developed end-to-end with AI workflows – all features delivered in under a quarter and ready for production.
-
-- 🔗 **Jira & Confluence MCP Server**  
-  Custom Model Context Protocol server exposing Jira Cloud and Confluence Cloud to AI agents, with OAuth 2.0 3LO authentication and full reference docs.
 
 - 🧪 **Demiguise** – Release note & MOP automation tool used across teams to streamline deployment workflows.
 
